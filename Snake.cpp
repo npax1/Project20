@@ -80,6 +80,8 @@ void Action(int*& array_1, int*& array_2, int size_1, int size_2)
 }
 
 
+
+
 int main() {
 	srand(time(0));
 	int size_1, size_2;
